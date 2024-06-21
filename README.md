@@ -9,6 +9,7 @@ Projeto do curso de Fundamentos de IA da DIO.
 ## Seguem os principais prompts usados para a geração do Ebook:
 
 - Você é um roteirista com anos de experiência no ramo de podcasts. Iremos criar primeiramente um título para um podcast de inteligencia artificial. O podcast irá abordar temas de inteligencia artificial que possam ser aplicados ao dia a dia de uma pessoa comum.
+
   {REGRAS}
   - O nome do podcast deve possuir título e subtítulo
   - Ele deve ter algum trocadilho com alguma atividade rotineira de um ser humano
